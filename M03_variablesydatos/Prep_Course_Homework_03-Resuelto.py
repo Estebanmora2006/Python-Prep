@@ -18,6 +18,7 @@ print(a)
 
 
 type(8.5)
+print(type)
 
 
 # 3) Imprimir el tipo de dato de la variable creada en el punto 1
